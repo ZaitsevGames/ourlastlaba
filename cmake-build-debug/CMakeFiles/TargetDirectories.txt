@@ -1,0 +1,4 @@
+/cygdrive/c/ourlastlaba/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/cygdrive/c/ourlastlaba/cmake-build-debug/CMakeFiles/FTP.dir
+/cygdrive/c/ourlastlaba/cmake-build-debug/CMakeFiles/edit_cache.dir
+/cygdrive/c/ourlastlaba/cmake-build-debug/CMakeFiles/main.dir
