@@ -1,4 +1,4 @@
-//Copyright 2019 <ZaitsevGames&N1trousOxide>
+//Copyright 2019 <ZaitsevGames & N1trousOxide>
 #include "FTPfiles.h"
 
 FTPfiles::FTPfiles(const path &pathToDir) {

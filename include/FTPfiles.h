@@ -1,4 +1,4 @@
-//Copyright 2019 <ZaitsevGames&N1trousOxide>
+//Copyright 2019 <ZaitsevGames & N1trousOxide>
 #ifndef INCLUDE_FTPFILES_HPP_
 #define INCLUDE_FTPFILES_HPP_
 #include <boost/filesystem.hpp>
